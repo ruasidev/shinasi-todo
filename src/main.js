@@ -1,1 +1,3 @@
-$('#something').text = "awoeifjaweiofioewa"
+import $ from 'jquery'
+
+$('#something').text("nice");
